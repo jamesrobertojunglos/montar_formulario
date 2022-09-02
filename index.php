@@ -32,7 +32,5 @@
     <input type="text" name="nome" value="<?php echo $nome ?>">
     <input type="submit" value="enviar" name="enviar">
 </form>
-
-   
 </body>
 </html>
